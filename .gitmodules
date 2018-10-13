@@ -1,0 +1,3 @@
+[submodule "extprojects/nfl-elo-game"]
+	path = extprojects/nfl-elo-game
+	url = git@github.com:chrisdnn/nfl-elo-game.git
